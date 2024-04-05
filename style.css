@@ -1,0 +1,56 @@
+/* Write some CSS below */
+
+
+h2 {
+color : #41C9E2 ;
+font-weight: 500;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    background-color: #008DDA;
+}
+
+
+h1 {
+    font-weight: lighter;
+}
+
+img {
+    width : 150px;
+    height : 150px;
+    border-radius: 50%;
+}
+a {
+    text-decoration: none;
+}
+
+div{
+    box-shadow: 10px 20px 30px #41C9E2;
+    border-radius: 5px;
+    margin: 70px;
+    padding: 10px 20px;
+}
+
+    
+.div-content { background-color: white; 
+    padding: 10px 20px;
+    margin: 90px 200px;
+}
+
+.btn-blue{
+padding : 15px 25px;
+background-color: #ACE2E1;
+border-radius: 5px;
+color : black
+}
+
+.btn-blue:hover {
+    background-color: black;
+    color : white;
+}
+
+.list{
+    list-style: none;
+    padding-left: 0;
+}
